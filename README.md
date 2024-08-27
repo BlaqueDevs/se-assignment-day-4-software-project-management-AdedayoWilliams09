@@ -2,7 +2,7 @@
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 
 Answer:
-Timely delivery in software project management is crucial because it ensures client satisfaction, maintains project budgets, and helps avoid costly delays. Project managers can ensure deadlines are met by setting clear goals, regularly tracking progress, managing risks, and maintaining open communication with the team.
+Timely delivery in software project management is crucial because it ensures client satisfaction, maintains project budgets, and helps avoid costly delays. Project managers can ensure deadlines are met by setting clear goals, regularly tracking progress, managing risks, and maintaining open communication with the team. 
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
